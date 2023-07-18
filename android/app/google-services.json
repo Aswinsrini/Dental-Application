@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47258399349",
+    "project_id": "dental-flutter-9b79d",
+    "storage_bucket": "dental-flutter-9b79d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47258399349:android:caecaa9119315a657e3e3c",
+        "android_client_info": {
+          "package_name": "com.example.maris_dental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47258399349-pr8hskfjb54u9rvjvh5eflbiufjnh4vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78-F7cgpXWdvOWYppUAh72tZiwVOjtyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47258399349-pr8hskfjb54u9rvjvh5eflbiufjnh4vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
